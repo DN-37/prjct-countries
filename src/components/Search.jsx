@@ -16,6 +16,8 @@ const InputContainer = styled.label`
     @media(min-width: 767px) {
         margin-bottom: 0;
         width: 280px;
+        background-color: var(--colors-ui-base);
+        color: var(--colors-text);
     }
 `;
 
