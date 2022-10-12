@@ -1,6 +1,7 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { Search } from "./Search";
 import { CustomSelect } from "./CustomSelect";
+import styled from "styled-components";
 
 const options = [
     { value: 'Africa', label: 'Africa' },
