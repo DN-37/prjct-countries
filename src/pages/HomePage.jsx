@@ -33,7 +33,7 @@ export const HomePage = ({setCountries, countries}) => {
             axios.get(ALL_COUNTRIES).then(
                 ({data}) => setCountries(data)
             )
-    }, [])
+    }, [setCountries, countries.length])
 
     return (
     <>
