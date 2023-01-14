@@ -1,4 +1,4 @@
-<a href="https://https://prjct-countries.netlify.app//" target="_blank">Сайт находится здесь
+<a href="https://https://prjct-countries.netlify.app/" target="_blank">Сайт находится здесь
 
 # Getting Started with Create React App
 
